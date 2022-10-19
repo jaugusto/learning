@@ -19,10 +19,10 @@ A log of things I am learning
 - [X] [Elasticsearch e Elastic Stack: o Curso Completo!](https://www.udemy.com/course/elasticsearch-elastic-stack/)
 - [X] [Administração Empreendedora e Startups](https://www.udemy.com/course/administracao-empreendedora-e-start-ups)
 - [X] [Mathematical Foundations of Machine Learning](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/)
+- [X] [AWS na prática](https://www.udemy.com/course/aws-na-pratica)
+- [X] [Create a Text Generation Web App with 100% Python (NLP)](https://www.udemy.com/course/nlp-text-generation-python-web-app)
 - [ ] [REST APIs with Flask and Python in 2022](https://www.udemy.com/course/rest-api-flask-and-python)
 - [ ] [Certificação Amazon AWS Cloud Practitioner Foundational 2022](https://www.udemy.com/course/certificacao-aws-cloud-practitioner)
-- [ ] [AWS na prática](https://www.udemy.com/course/aws-na-pratica)
-- [ ] [Create a Text Generation Web App with 100% Python (NLP)](https://www.udemy.com/course/nlp-text-generation-python-web-app)
 - [ ] [PEP8 Guidelines: Python Clean Coding](https://www.udemy.com/course/pep8-python/)
 </details>
 
